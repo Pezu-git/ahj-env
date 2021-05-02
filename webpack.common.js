@@ -5,7 +5,7 @@ const HtmlWebPackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
-  entry: './index.js',
+  entry: './src/index.js',
   target: 'web',
   output: {
     chunkLoading: false,
@@ -45,7 +45,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebPackPlugin({
-      template: './index.html.js',
+      template: './src/index.html.js',
       inject: true,
     }),
     new MiniCssExtractPlugin({
