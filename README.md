@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/j961a4awh2lt5s2m?svg=true)](https://ci.appveyor.com/project/Pezu-git/ahj-env)
+[![Build status](https://ci.appveyor.com/api/projects/status/j5ovhd4a4v2kk78r?svg=true)](https://ci.appveyor.com/project/Pezu-git/ahj-env)
