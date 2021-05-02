@@ -6,13 +6,11 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
   entry: './index.js',
-  target: 'web',
   output: {
     chunkLoading: false,
     wasmLoading: false,
     path: path.resolve(__dirname, 'dist'),
     filename: 'index.js',
-    publicPath: '',
   },
   module: {
     rules: [
