@@ -1,7 +1,7 @@
 {
-  "name": "ahj-yarn",
+  "name": "ahj-env",
   "version": "1.0.0",
-  "description": "ahj-yarn",
+  "description": "ahj-env",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Pezu-git/ahj-yarn.git"
+    "url": "git+https://github.com/Pezu-git/ahj-env.git"
   },
   "author": "pezu-git",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Pezu-git/ahj-yarn/issues"
+    "url": "https://github.com/Pezu-git/ahj-env/issues"
   },
-  "homepage": "https://github.com/Pezu-git/ahj-yarn#readme",
+  "homepage": "https://github.com/Pezu-git/ahj-env#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.16",
     "@babel/core": "^7.12.16",
