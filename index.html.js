@@ -11,7 +11,7 @@ const template = (hash) => {
   <title>Document</title>
 </head>
 <body>
-<h1>Helloooo, from Netology!</h1>
+<h1>Hello, from Netology!</h1>
 <img src="img/netology.svg" alt="Netology Logo">
 </body>
 </html>`;
