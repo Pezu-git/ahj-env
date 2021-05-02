@@ -10,7 +10,8 @@ module.exports = {
     chunkLoading: false,
     wasmLoading: false,
     path: path.resolve(__dirname, 'dist'),
-    filename: 'index.js',
+    publicPath: '/',
+    // filename: 'index.js',
   },
   module: {
     rules: [
