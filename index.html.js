@@ -12,7 +12,7 @@ const template = (hash) => {
 </head>
 <body>
 <h1>Helloo, from Netology!</h1>
-<img src="img/netology.svg" alt="Netology Logo">
+<img src="https://github.com/Pezu-git/ahj-env/blob/master/img/netology.svg" alt="Netology Logo">
 </body>
 </html>`;
 };
