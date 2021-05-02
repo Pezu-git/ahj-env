@@ -12,7 +12,7 @@ module.exports = {
     wasmLoading: false,
     path: path.resolve(__dirname, 'dist'),
     publicPath: '',
-    // filename: 'index.js',
+    filename: 'index.js',
   },
   module: {
     rules: [
